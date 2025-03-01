@@ -194,7 +194,7 @@ Delving into more complex scenarios (synonyms for example) here are some example
 
 To upload occurrence data, TW offers the ability to use a DwC Archive file format. _For occurrences, the importer is presently limited to vouchered specimen data records._
 
-To use this approach you must have your specimen data in a single spreadsheet-style format that can be export as "CSV".
+To use this approach you must have your specimen data in a single spreadsheet-style format that can be export as "CSV". Also, the DwC-A Importer lets you simply drag and drop a TSV file with your data, which is a simpler approach if you don't already have your data in DwC Archive format.
 
 Preparing for an import follows the following general procedures:
 * [Map your data](/guide/import#map-your-data) (provide a column header) for each column of data to be imported
